@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="https://librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="90mm" height="70mm" viewBox="0 0 90 70">
+    <g lc:layername="sign" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="0.1">
+        <line x1="0" y1="70" x2="90" y2="70"/>
+        <line x1="90" y1="70" x2="90" y2="0"/>
+        <line x1="90" y1="0" x2="0" y2="0"/>
+        <line x1="0" y1="0" x2="0" y2="70"/>
+    </g>
+    <g lc:layername="sign-limit" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="0.1">
+        <line x1="0" y1="50.5" x2="90" y2="50.5"/>
+    </g>
+</svg>

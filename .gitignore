@@ -1,0 +1,5 @@
+
+
+#ignlore temp files
+#*
+*.dxf~
