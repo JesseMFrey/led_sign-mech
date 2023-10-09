@@ -26,9 +26,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.83850873"
-     inkscape:cx="-1.1925934"
+     inkscape:cx="429.33363"
      inkscape:cy="163.9816"
-     inkscape:window-width="2484"
+     inkscape:window-width="1716"
      inkscape:window-height="1385"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -1778,7 +1778,7 @@
   </g>
   <g
      id="g548"
-     transform="rotate(-90,155.06685,130.26192)">
+     transform="matrix(0,-1,-1,0,340.05363,285.32877)">
     <line
        x1="198.02251"
        y1="172.62436"
