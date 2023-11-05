@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-sign-limit
+sign
   9
 $CELTYPE
   6
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-265.5914761378112
+119.9434603268869
  22
-167.8175758125354
+107.2107323522925
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-259.8465690000548
+136.7460100285206
  41
 2.554421768707483
  42
@@ -19665,102 +19665,6 @@ LINE
 100
 AcDbEntity
   8
-sign
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-52.85
- 20
-220.5
- 11
-52.85
- 21
-150.5
-  0
-LINE
-  5
-312
-100
-AcDbEntity
-  8
-sign
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-149.65
- 20
-220.5
- 11
-52.85
- 21
-220.5
-  0
-LINE
-  5
-313
-100
-AcDbEntity
-  8
-sign
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-52.85
- 20
-150.5
- 11
-149.65
- 21
-150.5
-  0
-LINE
-  5
-314
-100
-AcDbEntity
-  8
-sign
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-149.65
- 20
-150.5
- 11
-149.65
- 21
-220.5
-  0
-LINE
-  5
-315
-100
-AcDbEntity
-  8
 sign-limit
   6
 ByLayer
@@ -19778,6 +19682,102 @@ AcDbLine
 176.25
  21
 166
+  0
+LINE
+  5
+312
+100
+AcDbEntity
+  8
+sign
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+53.05
+ 20
+220.5
+ 11
+53.05
+ 21
+150.5
+  0
+LINE
+  5
+313
+100
+AcDbEntity
+  8
+sign
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+149.45
+ 20
+220.5
+ 11
+53.05
+ 21
+220.5
+  0
+LINE
+  5
+314
+100
+AcDbEntity
+  8
+sign
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+149.45
+ 20
+150.5
+ 11
+149.45
+ 21
+220.5
+  0
+LINE
+  5
+315
+100
+AcDbEntity
+  8
+sign
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+53.05
+ 20
+150.5
+ 11
+149.45
+ 21
+150.5
   0
 ENDSEC
   0

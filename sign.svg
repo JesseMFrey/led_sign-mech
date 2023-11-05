@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="96.900002mm"
+   width="96.5mm"
    height="70.099998mm"
-   viewBox="0 0 96.900002 70.099998"
+   viewBox="0 0 96.5 70.099998"
    version="1.1"
    id="svg5"
    sodipodi:docname="sign.svg"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.5755539"
-     inkscape:cx="27.926687"
-     inkscape:cy="211.6716"
+     inkscape:zoom="2.2281696"
+     inkscape:cx="341.98473"
+     inkscape:cy="209.81347"
      inkscape:window-width="3436"
      inkscape:window-height="1385"
      inkscape:window-x="0"
@@ -39,37 +39,37 @@
      lc:is_locked="false"
      lc:is_construction="false"
      fill="none"
-     stroke="#000000"
+     stroke="black"
      stroke-width="0.1"
      id="g4"
-     transform="translate(-26.55,0.05)"
-     style="stroke:#ff0000;stroke-opacity:1">
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-26.749999,0.05)">
     <line
-       x1="26.6"
+       x1="26.799999"
        y1="0"
-       x2="26.6"
+       x2="26.799999"
        y2="70"
        id="line1"
        style="stroke:#ff0000;stroke-opacity:1" />
     <line
-       x1="123.4"
+       x1="123.2"
        y1="0"
-       x2="26.6"
+       x2="26.799999"
        y2="0"
        id="line2"
        style="stroke:#ff0000;stroke-opacity:1" />
     <line
-       x1="26.6"
+       x1="123.2"
        y1="70"
-       x2="123.4"
-       y2="70"
+       x2="123.2"
+       y2="0"
        id="line3"
        style="stroke:#ff0000;stroke-opacity:1" />
     <line
-       x1="123.4"
+       x1="26.799999"
        y1="70"
-       x2="123.4"
-       y2="0"
+       x2="123.2"
+       y2="70"
        id="line4"
        style="stroke:#ff0000;stroke-opacity:1" />
   </g>
@@ -78,17 +78,17 @@
      lc:is_locked="false"
      lc:is_construction="false"
      fill="none"
-     stroke="#000000"
+     stroke="black"
      stroke-width="0.1"
      id="g5"
-     transform="translate(-26.55,0.05)"
-     style="stroke:#0000ff;stroke-opacity:1;stroke-dasharray:2.4, 2.4;stroke-dashoffset:0;stroke-width:0.3">
+     style="stroke:#00ff00;stroke-dasharray:0.4, 0.4;stroke-dashoffset:0;stroke-opacity:1"
+     transform="translate(-26.749999,0.05)">
     <line
        x1="0"
        y1="54.5"
        x2="150"
        y2="54.5"
        id="line5"
-       style="stroke:#0000ff;stroke-opacity:1;stroke-dasharray:2.4, 2.4;stroke-dashoffset:0;stroke-width:0.3" />
+       style="stroke:#00ff00;stroke-dasharray:0.4, 0.4;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>
